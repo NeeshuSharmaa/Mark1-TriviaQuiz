@@ -1,6 +1,6 @@
 const readlineSync = require("readline-sync");
 const chalk = require("chalk");
-var userName = readlineSync.question("Hello buddy ! What's your name? \n");
+var userName = readlineSync.question("Hello buddy! What's your name? \n");
 console.log("\n")
 
 function welcome(userName){
