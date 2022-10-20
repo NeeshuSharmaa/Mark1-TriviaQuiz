@@ -6,5 +6,10 @@ It is a CLI app consisting of a quiz that has 3 levels, 2 questions in level 1 a
 
 [Live Quiz](https://replit.com/@NeeshuSharma/Mark-1-Trivia-Quiz?v=1)
 
+## Languges Used
+`HTML` `CSS` `JavaScript`
+
+Created using Replit
+
 
 
